@@ -1,0 +1,28 @@
+# Data and Models
+archive/
+archives/
+models/
+*.npy
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
+
+# OS and IDE
+.DS_Store
+.vscode/
+
+# Logs and Build
+*.log
+build/
+dist/
+temp/
+tmp/
