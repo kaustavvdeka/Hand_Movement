@@ -29,7 +29,7 @@ Clone the repository and install the required dependencies:
 pip install -r requirements.txt
 ```
 
-### 2. Download the MediaPipe Model
+### 2. Download the MediaPipe Model---
 
 The system uses the modern MediaPipe Tasks API. Ensure you have the `hand_landmarker.task` file inside the `models/` directory.
 
@@ -56,7 +56,7 @@ This will start the local server and automatically open the application in your 
 3.  **Gesture Classification (CNN):** The cropped Region of Interest (ROI) is resized to `64x64`, converted to grayscale, and fed into a custom Convolutional Neural Network.
 4.  **Prediction:** The CNN outputs a probability distribution across 10 distinct gesture classes (e.g., Palm, Fist, Thumbs Up, Peace, etc.).
 
-## 📁 Repository Structure
+## 📁 Repository Structure--
 
 ```text
 📂 Skillcraft/
