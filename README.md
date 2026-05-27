@@ -81,6 +81,4 @@ This will start the local server and automatically open the application in your 
 │   └── 5_ℹ️_About.py
 ```
 
-## 📝 License
 
-This project is licensed under the MIT License.
